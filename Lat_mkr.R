@@ -2,8 +2,6 @@ require(tidyverse)
 
 # prereq ------------------------------------------------------------------
 
-
-
 name = 'Circle_lat_10'
 size_x <- 10
 size_y <- 10
